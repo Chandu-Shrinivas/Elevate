@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pymongo
+pydantic
+python-dotenv
+httpx
+python-multipart
+starlette
